@@ -5,7 +5,7 @@ package es.cice.catalogo;
 /**
  * Esta clase  se usara cara la creacion de objetos con una serie de parametros especificos 
  * @author Manuel Veiga
- * @version: 24/12/19
+ * @version: 24/12/19/ A
  * @see <a href= "https://github.com/Manumk13/catalogo.git /> enlace al repositorio Github</a>
  */
 public class Videojuego {
