@@ -9,4 +9,5 @@ En el segundo commit añado el README dado que no se subio correctamente en el c
 
 En el tercer commit comentaremos la clase cesta  esta clase lo que hace es almacenar en una lista todos los objetos de videojuegos y calcular la suma de todos los precios de cada objeto y devolver ese valor como importe
 
+En el cuarto commit comenzamos a comentar la clase ejecutador  dado a problemas de tiempo se queda incompleto
 

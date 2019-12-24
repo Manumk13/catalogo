@@ -1,5 +1,10 @@
 package es.cice.catalogo;
-
+/*
+ * Esta clase se encarga de ejecutar  toda la aplicacion aqui se pueden apreciar todas las llamadas
+ * @author MARIA DEL CARMEN
+ * @version: 24/12/19/ C
+ * @see <a href= "https://github.com/Manumk13/catalogo.git /> enlace al repositorio Github</a>
+ */
 public class Ejecutador {
 
     public static void main(String[] args) {
