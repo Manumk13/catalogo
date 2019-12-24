@@ -7,3 +7,6 @@ En el primer commit me limito a subir el proyecto y comenzar a documentar un poc
 
 En el segundo commit añado el README dado que no se subio correctamente en el commit anterior
 
+En el tercer commit comentaremos la clase cesta  esta clase lo que hace es almacenar en una lista todos los objetos de videojuegos y calcular la suma de todos los precios de cada objeto y devolver ese valor como importe
+
+
