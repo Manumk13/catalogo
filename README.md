@@ -17,4 +17,6 @@ En el sexto recuperamos la actualizacion perdida del readme anterior
 
 En el septimo commit introducimos nuevos atrubitos y sus respectivos getters and setters
 
-En el octavo anadimos un nuevo objeto para ver que todo sigue funcional
+En el octavo  commit añadimos un nuevo objeto para ver que todo sigue funcional
+
+En el noveno  commit instanciamos los 10 objetos completamente funcionales
