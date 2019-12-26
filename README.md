@@ -16,3 +16,5 @@ En el quinto commit corregimos los errores
 En el sexto recuperamos la actualizacion perdida del readme anterior
 
 En el septimo commit introducimos nuevos atrubitos y sus respectivos getters and setters
+
+En el octavo anadimos un nuevo objeto para ver que todo sigue funcional

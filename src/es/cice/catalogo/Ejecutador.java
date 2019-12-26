@@ -12,6 +12,7 @@ public class Ejecutador {
         Videojuego v2 = new Videojuego("Fifa 19", "Play Station 4", "EA Sports", "12", 25.40f,"EA sports");
         Videojuego v3 = new Videojuego("Mortal Kombat XI", "XBOX-one", "NetherRealm Studios", "18", 56.95f,"MKX");
         Videojuego v4 = new Videojuego("Fortnite", "Nintendo Swich", "Epic Games", "12", 36.95f,"Epic games");
+        Videojuego v5 = new Videojuego("Naruto Generation", "pc", "Otakucenters", "16", 26.95f,"sega");
         
 
         Cesta c1 = new Cesta();
