@@ -6,7 +6,7 @@ package es.cice.catalogo;
  * @see <a href= "https://github.com/Manumk13/catalogo.git /> enlace al repositorio Github</a>
  */
 public class Ejecutador {
-
+// hacemos las llamadas 
     public static void main(String[] args) {
         Videojuego v1 = new Videojuego("Dark Souls", "Play Station 3", "From Software", "16", 25.40f,"santa monica");
         Videojuego v2 = new Videojuego("Fifa 19", "Play Station 4", "EA Sports", "12", 25.40f,"EA sports");
@@ -20,7 +20,7 @@ public class Ejecutador {
         Videojuego v10 = new Videojuego("Black ops 3", "PS4", "Treyarch", "18", 36.95f,"Treyarch");
         
         
-        
+        //agregamos a la cesta
         Cesta c1 = new Cesta();
         c1.agregarProducto(v1);
         c1.agregarProducto(v2);
@@ -32,7 +32,9 @@ public class Ejecutador {
         c1.agregarProducto(v8);
         c1.agregarProducto(v9);
         c1.agregarProducto(v10);
+        //calculamos el precio
         float importeCesta = c1.calcularImporte();
-        System.out.println("Importe de la compra :" + importeCesta);
-    }
-}
+        //devolvemos por pantalla el precio
+        System.out.println("Importe de la compra :" + importeCesta + "€");
+    }//cierre del main
+}//cierre de la clase

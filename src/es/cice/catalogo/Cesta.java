@@ -13,7 +13,7 @@ public class Cesta {
     ArrayList<Videojuego> listaJuegos = new ArrayList<Videojuego>();
     public void agregarProducto(Videojuego v){
         listaJuegos.add(v);
-    }
+    }//cierre del metodo
     
     /**
      * 
@@ -25,5 +25,5 @@ public class Cesta {
         importe = importe + listaJuegos.get(i).getPrecio();
         }
         return importe;
-}
-}
+}//cierre del metodo calcular importe
+}//cierre de la clase

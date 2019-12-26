@@ -20,3 +20,5 @@ En el septimo commit introducimos nuevos atrubitos y sus respectivos getters and
 En el octavo  commit añadimos un nuevo objeto para ver que todo sigue funcional
 
 En el noveno  commit instanciamos los 10 objetos completamente funcionales
+
+En el deciomo commit pulimos los errores y dejamos todo completamente comentado
