@@ -11,3 +11,7 @@ En el tercer commit comentaremos la clase cesta  esta clase lo que hace es almac
 
 En el cuarto commit comenzamos a comentar la clase ejecutador  dado a problemas de tiempo se queda incompleto
 
+En el quinto commit corregimos los errores
+
+En el sexto recuperamos la actualizacion perdida del readme anterior
+
