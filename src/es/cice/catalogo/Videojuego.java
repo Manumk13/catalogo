@@ -15,17 +15,19 @@ public class Videojuego {
     private String desarrollador;
     private String edad;
     private float precio;
+    private String company;
 // constructor
     /**
      * Constructor  para meter los valores a los atributos de cad objeto que creemos
      * 
      */
-    public Videojuego(String titulo, String plataforma, String desarrollador, String edad, float precio) {
+    public Videojuego(String titulo, String plataforma, String desarrollador, String edad, float precio, String company) {
         this.titulo = titulo;
         this.plataforma = plataforma;
         this.desarrollador = desarrollador;
         this.edad = edad;
         this.precio = precio;
+        this.company = company;
     }// cierre del constructor
 // getter and setter
     public String getTitulo() {
@@ -67,6 +69,11 @@ public class Videojuego {
     public void setPrecio(float precio) {
         this.precio = precio;
     }
-    
+    public String getCompany() {
+        return company;
+    }
+    public void setPrecio() {
+        this.company = company;
+    }
     
 }// cierre de clase
