@@ -1,8 +1,8 @@
 package es.cice.catalogo;
-/*
+/**
  * Esta clase se encarga de ejecutar  toda la aplicacion aqui se pueden apreciar todas las llamadas
- * @author MARIA DEL CARMEN
- * @version: 24/12/19/ C
+ * @author Manuel veiga
+ * @version: 26/12/19/ D
  * @see <a href= "https://github.com/Manumk13/catalogo.git /> enlace al repositorio Github</a>
  */
 public class Ejecutador {
@@ -12,6 +12,7 @@ public class Ejecutador {
         Videojuego v2 = new Videojuego("Fifa 19", "Play Station 4", "EA Sports", "12", 25.40f);
         Videojuego v3 = new Videojuego("Mortal Kombat XI", "XBOX-one", "NetherRealm Studios", "18", 56.95f);
         Videojuego v4 = new Videojuego("Fortnite", "Nintendo Swich", "Epic Games", "12", 36.95f);
+        
 
         Cesta c1 = new Cesta();
         c1.agregarProducto(v1);

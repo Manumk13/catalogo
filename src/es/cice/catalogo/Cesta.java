@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 
  * @author Manuel Veiga
- * @version: 24/12/19/ B
+ * @version: 26/12/19/ D
  * @see <a href= "https://github.com/Manumk13/catalogo.git /> enlace al repositorio Github</a>
  * esta clase se encarga de almacenar todos los videjoegos dentro de una misma lista y ademas devuelve el importe total de la suma de todos los juegos introducidos
  */
